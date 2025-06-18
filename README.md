@@ -25,8 +25,11 @@ H41: There is a linkage between age group and the likelihood of making impulse p
 KEY FEATURES:
 
 📍 Data-driven insights into customer behavior
+
 📍 Hypothesis testing based on survey responses
+
 📍 Visual representation of age, gender vs. purchasing pattern
+
 📍 Impact analysis of social feedback and reviews
 
 RESULTS AND OBSERVATION:
