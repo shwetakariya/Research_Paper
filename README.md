@@ -3,9 +3,11 @@
 This repository contains the research project aimed at understanding how social media platforms influence consumer behavior, particularly in apparel purchasing. With social media becoming a key part of daily life, platforms like Instagram, Facebook, and Pinterest are now powerful tools for brand marketing and consumer engagement.
 
 PROJECT OVERVIEW: 
+
 In the current digital era, the impact of social media on our lifestyle decisions is profound—especially in clothing and fashion. This study investigates how social media advertisements and influencer marketing shape the apparel purchasing habits of consumers across different age groups and genders.
 
 OBJECTIVES: 
+
 1. To evaluate whether social media advertisements influence consumer's clothing purchases.
 2. To analyze the role of gender and age in purchasing decisions driven by social media.
 3. To assess the regret factor associated with impulse purchases triggered by social ads.
